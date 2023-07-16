@@ -1,3 +1,1 @@
 # Hacker Rank
-
-teste
