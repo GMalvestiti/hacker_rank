@@ -35,7 +35,7 @@ public class App {
             }
         }
 
-        System.out.printf("Array is sorted in %d swaps%nFirst Element: %d%nLast Element: %d", numberOfSwaps, a.get(0), a.get(a.size() - 1));
+        System.out.printf("Array is sorted in %d swaps.%nFirst Element: %d%nLast Element: %d", numberOfSwaps, a.get(0), a.get(a.size() - 1));
 
         bufferedReader.close();
     }
